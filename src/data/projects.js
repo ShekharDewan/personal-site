@@ -1,49 +1,50 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    link: '/projects/nearestdollar/',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
+    title: 'SITESEEING',
+    subtitle: 'Using Machine Learning to Label Segmented Webpages',
+    link: 'https://drive.google.com/file/d/1P7XnAETcq5-8eCKKoJNnez4eOuk8xBzY/view?usp=sharing',
+    image: '/images/projects/SiteSeeing.PNG',
+    date: '2020-04-22',
     desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+      'Incorporated Machine Learning into my supervisors earlier work. '
+      + 'Improved performance from 20% to 40% using a CNN '
+      + 'and then improved it from 40% to 60% using a novel approach I proposed '
+      + 'involving feature extraction.',
   },
   {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
+    title: 'Language Translation',
+    subtitle: 'Using Deep Learning to Translate an Ancient Language into English',
+    link: '',
+    image: '/images/projects/automl-trans1.png',
+    date: '2020-04-01',
     desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+      'Formatted Hundreds of Thousands of Ancient Text to translate into English. '
+      + 'Used Amazon\'s Sockeye to build a translation model. '
+      + 'Ultimately, the data set was too small to produce meaningful results '
+      + 'but leaves open the possibility of future work.',
   },
   {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
+    title: 'Travel Planner',
+    subtitle: 'A functional travel planner built with Jave Spring',
+    link: 'https://github.com/ShekharDewan/TravelPlanner',
+    image: '/images/projects/tripPage.png',
+    date: '2019-04-06',
     desc:
-      'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
+      'Developed a functional travel planner according to client specifications '
+      + 'for our software design class. Client named our planner the one they '
+      + 'were most likely to use.',
   },
   {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    link: '/project/catdetector/',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
+    title: 'GreenMap',
+    subtitle: 'An app to help people make more eco friendly purchases',
+    link: 'https://github.com/reisman-internship-2019-greenmap',
+    image: '/images/projects/TreeSplash1X.png',
+    date: '2019-09-08',
     desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+      'Built an App that used Enviornmental Data to help people make upto 80% more eco-friendly purchases. '
+      + 'Works by selecting the most eco friendly company within a product category (based on data availability). '
+      + 'Used the MERN (Mongo Express React and Node) Stack as well as Wikipedias GraphQL database.',
   },
 ];
 
