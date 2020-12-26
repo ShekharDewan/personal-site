@@ -11,7 +11,7 @@ In addition, I am a medtitator.
 
 At STATCAN I have learned about large organizations, fulfilling client needs, and extending and maintaining codebases, particularly for a web app.
 
-# My entry into computing
+# How I See Computing
 
 - I grew up with an interest in technology, seeing its many froms and their transformations. In my household, I had seen casettes, floppy disks, the radio, B&W and CRT Televisions, Dial Phones, Mobile Phones, Desktops, the internet, the laptop, Headphones, and the Smartphone.  
 
